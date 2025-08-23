@@ -1,16 +1,16 @@
 {
-  "id": 10,
+  "id": 11,
   "created_at": "2025-01-23T00:00:00Z",
-  "seo_title": "Chaturbate Downloader - Free Download Tool",
-  "seo_description": "Record Chaturbate streams automatically with model detection and quality selection",
+  "seo_title": "Chaturbate Downloader - Free Content Download Tool",
+  "seo_description": "https://serp.ly/chaturbate-downloader",
   "product_page_url": "https://store.serp.co/product-details/product/chaturbate-downloader",
   "purchase_url": "https://serp.ly/chaturbate-downloader",
   "store_product_id": null,
   "name": "Chaturbate Downloader",
-  "tagline": "Record Chaturbate streams automatically with model detection and quality selection",
-  "featured_image": "images/featured.jpg",
-  "featured_image_gif": "images/featured.gif",
-  "github_repo_url": "https://github.com/serpxxx/chaturbate-downloader",
+  "tagline": "https://serp.ly/chaturbate-downloader",
+  "featured_image": "images/chaturbate-downloader.jpg",
+  "featured_image_gif": "images/chaturbate-downloader.gif",
+  "github_repo_url": "https://github.com/serpapps/chaturbate-downloader",
   "github_repo_tags": [
     "chaturbate-downloader",
     "downloader",
@@ -19,22 +19,22 @@
   ],
   "github_gist_url": null,
   "features": [
-    "Auto-recording on stream start",
-    "Model monitoring list",
-    "Ticket show capture",
-    "HD quality selection",
-    "Anonymous mode",
-    "Batch recording"
+    "Stream-to-file conversion",
+    "HD quality downloads",
+    "Batch download support",
+    "Resume interrupted downloads",
+    "No watermarks",
+    "Content extraction"
   ],
   "chrome_web_store_url": null,
-  "description": "Chaturbate Downloader is a powerful tool that helps you record chaturbate streams automatically with model detection and quality selection. Built with modern technologies, it provides a seamless experience for downloading and managing content.",
+  "description": "Chaturbate Downloader is a powerful tool that helps you download content from Chaturbate instantly without ads or popups. Built with modern technologies, it provides a seamless experience for downloading and managing content.",
   "product_video": null,
   "related_videos": null,
   "changelog": null,
   "version_number": 1,
   "updated_at": "2025-01-23T00:00:00Z",
   "troubleshooting_instructions": [],
-  "installation_instructions": "1. Clone the repository: git clone https://github.com/serpxxx/chaturbate-downloader\n2. Install dependencies\n3. Configure settings\n4. Run the application",
+  "installation_instructions": "1. Clone the repository: git clone https://github.com/serpapps/chaturbate-downloader\n2. Install dependencies\n3. Configure settings\n4. Run the application",
   "usage_instructions": [
     "Open the application",
     "Enter the URL of the content you want to download",
@@ -51,17 +51,17 @@
   "status": "live",
   "technologies": [
     "Python",
-    "Streamlink",
-    "FFmpeg",
-    "BeautifulSoup"
+    "JavaScript",
+    "Node.js",
+    "Automation"
   ],
   "serpco_product_page_link": "https://store.serp.co/product-details/product/chaturbate-downloader",
   "serpai_product_page_link": null,
   "file_formats": null,
   "categories": [
-    "Adult Streaming",
-    "Recording Software",
-    "Automation Tools"
+    "Video Downloaders",
+    "Content Tools",
+    "Automation"
   ],
   "extraction_targets": null,
   "content_medium": null,
@@ -78,14 +78,15 @@
     "serply"
   ],
   "funding_links_custom": [
-    "https://serp.ly/chaturbate-downloader"
+    "https://serpapps.github.io/chaturbate-downloader",
+    "https://devinschumacher.com/chaturbate-downloader",
+    "https://serp.co/products/chaturbate-downloader/reviews/"
   ],
   "keywords": [
-    "chaturbate-downloader",
     "chaturbate",
     "downloader",
-    "downloader",
-    "free",
-    "tool"
+    "automation",
+    "tool",
+    "free"
   ]
 }
