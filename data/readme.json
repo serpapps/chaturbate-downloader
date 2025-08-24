@@ -2,20 +2,17 @@
   "id": 11,
   "created_at": "2025-01-23T00:00:00Z",
   "seo_title": "Chaturbate Downloader - Free Content Download Tool",
-  "seo_description": "https://serp.ly/chaturbate-downloader",
+  "seo_description": null,
   "product_page_url": "https://store.serp.co/product-details/product/chaturbate-downloader",
   "purchase_url": "https://serp.ly/chaturbate-downloader",
   "store_product_id": null,
   "name": "Chaturbate Downloader",
-  "tagline": "https://serp.ly/chaturbate-downloader",
-  "featured_image": "images/chaturbate-downloader.jpg",
-  "featured_image_gif": "images/chaturbate-downloader.gif",
+  "tagline": "Record Chaturbate streams automatically with model detection and quality selection",
+  "featured_image": "https://raw.githubusercontent.com/serpapps/chaturbate-downloader/assets/images/chaturbate-downloader.jpg",
+  "featured_image_gif": "https://raw.githubusercontent.com/serpapps/chaturbate-downloader/assets/images/chaturbate-downloader.gif",
   "github_repo_url": "https://github.com/serpapps/chaturbate-downloader",
   "github_repo_tags": [
-    "chaturbate-downloader",
-    "downloader",
-    "automation",
-    "tools"
+    "chaturbate-downloader"
   ],
   "github_gist_url": null,
   "features": [
@@ -55,13 +52,11 @@
     "Node.js",
     "Automation"
   ],
-  "serpco_product_page_link": "https://store.serp.co/product-details/product/chaturbate-downloader",
-  "serpai_product_page_link": null,
+  "serpco_product_page_link": "https://serp.co/products/chaturbate-downloader/reviews/",
+  "serpai_product_page_link": "https://serp.ai/products/chaturbate-downloader/reviews/",
   "file_formats": null,
   "categories": [
-    "Video Downloaders",
-    "Content Tools",
-    "Automation"
+    "adult streaming site"
   ],
   "extraction_targets": null,
   "content_medium": null,
@@ -72,21 +67,18 @@
     "devinschumacher"
   ],
   "funding_links_liberapay": [
-    "serply"
+    "devinschumacher"
   ],
   "funding_links_opencollective": [
-    "serply"
+    "devinschumacher"
   ],
   "funding_links_custom": [
     "https://serpapps.github.io/chaturbate-downloader",
     "https://devinschumacher.com/chaturbate-downloader",
-    "https://serp.co/products/chaturbate-downloader/reviews/"
+    "https://serp.co/products/chaturbate-downloader/",
+    "https://github.com/sponsors/devinschumacher"
   ],
   "keywords": [
-    "chaturbate",
-    "downloader",
-    "automation",
-    "tool",
-    "free"
+    "chaturbate downloader"
   ]
 }
