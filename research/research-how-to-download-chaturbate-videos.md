@@ -1036,7 +1036,11 @@ def select_optimal_quality(qualities, max_bandwidth=None, target_resolution=None
         filtered = [q for q in filtered if q['bandwidth'] <= max_bandwidth]
     
     if target_resolution:
-        target_height = int(target_resolution[:-1])  # '720p' -> 720
+        # Handle resolution like '720p' or just '720'
+        if target_resolution.endswith('p'):
+            target_height = int(target_resolution[:-1])
+        else:
+            target_height = int(target_resolution)
         filtered = [q for q in filtered if q['resolution'][1] <= target_height]
     
     if not filtered:
