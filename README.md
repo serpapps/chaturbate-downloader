@@ -1,20 +1,22 @@
-# Chaturbate Downloader
+# Chaturbate Video Downloader App (Browser Extension for Chrome, Firefox, Edge, Brave, Arc, Safari)
 
 Chaturbate Downloader is a powerful tool that helps you download content from Chaturbate instantly without ads or popups. Built with modern technologies, it provides a seamless experience for downloading and managing content.
 
+
 ## 🔗 Links
 
-- 🎁 Get it [here](https://serp.ly/chaturbate-downloader)
+- 🎁 Get it [here](https://serp.ly/chaturbate-downloader-downloader)
 - ❓ Check FAQs [here](https://github.com/orgs/serpapps/discussions/categories/faq)
-- 🐛 Report bugs [here](https://github.com/serpapps/chaturbate-downloader/issues)
-- 🆕 Request features [here](https://github.com/serpapps/chaturbate-downloader/issues)
+- 🐛 Report bugs [here](https://github.com/serpapps/chaturbate-downloader-downloader/issues)
+- 🆕 Request features [here](https://github.com/serpapps/chaturbate-downloader-downloader/issues)
 
-### Resources
+## Resources
 
-- 💬 [Community](https://serp.ly/@serp/community)
-- 💌 [Newsletter](https://serp.ly/@serp/email)
-- 🛒 [Shop](https://serp.ly/@serp/store)
-- 🎓 [Courses](https://serp.ly/@serp/courses)
+- [Repository](https://github.com/serpapps/chaturbate-downloader)
+- [Gist]()
+- [How to download pornhub videos]()
+
+
 
 ## Features
 
