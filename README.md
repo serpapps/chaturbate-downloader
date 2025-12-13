@@ -7,8 +7,8 @@ Chaturbate Downloader is a powerful tool that helps you download content from Ch
 
 - 🎁 Get it [here](https://serp.ly/chaturbate-downloader-downloader)
 - ❓ Check FAQs [here](https://github.com/orgs/serpapps/discussions/categories/faq)
-- 🐛 Report bugs [here](https://github.com/serpapps/chaturbate-downloader-downloader/issues)
-- 🆕 Request features [here](https://github.com/serpapps/chaturbate-downloader-downloader/issues)
+- 🐛 Report bugs [here](https://github.com/serpapps/chaturbate-downloader/issues)
+- 🆕 Request features [here](https://github.com/serpapps/chaturbate-downloader/issues)
 
 ## Resources
 
