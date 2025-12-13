@@ -4,6 +4,18 @@
 
 This research document provides an in-depth technical analysis of Chaturbate's video streaming infrastructure, CDN patterns, embed URL structures, and practical methods for downloading video content using industry-standard tools like yt-dlp and ffmpeg. The findings presented here are intended to guide developers in implementing robust download solutions that can detect, inspect, and capture streams from various Chaturbate sources across the web.
 
+## ⚠️ Important Legal Notice
+
+**This document is for educational and research purposes only.** Before implementing any techniques described herein:
+
+- **Respect Copyright**: Content creators have rights to their work. Only download content you have permission to access.
+- **Terms of Service**: Review and comply with Chaturbate's Terms of Service. Automated downloading may be prohibited.
+- **Legal Compliance**: Ensure your use complies with all applicable laws in your jurisdiction.
+- **Personal Use Only**: These techniques should only be used for legitimate personal archiving of content you have legal rights to access.
+- **Ethical Responsibility**: Use these tools responsibly and respect content creator rights and platform policies.
+
+The authors and contributors are not responsible for misuse of the information provided. Users assume all legal and ethical responsibility for their actions.
+
 ## Table of Contents
 
 1. [Introduction](#introduction)
