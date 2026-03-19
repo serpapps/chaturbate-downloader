@@ -140,19 +140,19 @@ Start here: [https://serp.ly/chaturbate-video-downloader](https://serp.ly/chatur
 
 ## FAQ
 
-**Can I record Chaturbate live streams?**  
+**Can I record Chaturbate live streams**  
 Yes. Public Chaturbate live rooms can be recorded while they are broadcasting.
 
-**Can I download saved videos too?**  
+**Can I download saved videos too**  
 Yes. The extension supports saved Chaturbate videos on supported pages.
 
-**What file format do downloads use?**  
+**What file format do downloads use**  
 Videos are saved as MP4 files.
 
-**Where are videos saved?**  
+**Where are videos saved**  
 They are saved to your default Downloads location, typically inside a CHATURBATE subfolder.
 
-**Do I need extra software?**  
+**Do I need extra software**  
 No. Everything runs through the browser extension.
 
 ## Notes
