@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="720" viewBox="0 0 1280 720" role="img" aria-labelledby="title desc">
+  <title id="title">Chaturbate Downloader workflow preview</title>
+  <desc id="desc">Stylized preview card for the Chaturbate Downloader workflow.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0%" stop-color="#101827"/>
+      <stop offset="100%" stop-color="#1d4ed8"/>
+    </linearGradient>
+  </defs>
+  <rect width="1280" height="720" fill="url(#bg)"/>
+  <rect x="72" y="72" width="1136" height="576" rx="28" fill="#0b1220" fill-opacity="0.86" stroke="#93c5fd" stroke-opacity="0.45"/>
+  <text x="110" y="170" fill="#f8fafc" font-family="Segoe UI, Arial, sans-serif" font-size="52" font-weight="700">Chaturbate Downloader</text>
+  <text x="110" y="222" fill="#bfdbfe" font-family="Segoe UI, Arial, sans-serif" font-size="28">Detect stream, choose quality, save MP4.</text>
+  <rect x="110" y="286" width="310" height="228" rx="20" fill="#172554"/>
+  <rect x="452" y="286" width="310" height="228" rx="20" fill="#1e3a8a"/>
+  <rect x="794" y="286" width="374" height="228" rx="20" fill="#1d4ed8"/>
+  <text x="140" y="350" fill="#dbeafe" font-family="Segoe UI, Arial, sans-serif" font-size="24" font-weight="700">1. Open a live room</text>
+  <text x="140" y="394" fill="#e5e7eb" font-family="Segoe UI, Arial, sans-serif" font-size="22">Press play and let the extension</text>
+  <text x="140" y="426" fill="#e5e7eb" font-family="Segoe UI, Arial, sans-serif" font-size="22">detect the active stream.</text>
+  <text x="482" y="350" fill="#dbeafe" font-family="Segoe UI, Arial, sans-serif" font-size="24" font-weight="700">2. Pick a quality</text>
+  <text x="482" y="394" fill="#e5e7eb" font-family="Segoe UI, Arial, sans-serif" font-size="22">Choose the source variant exposed</text>
+  <text x="482" y="426" fill="#e5e7eb" font-family="Segoe UI, Arial, sans-serif" font-size="22">by the page or popup.</text>
+  <text x="824" y="350" fill="#eff6ff" font-family="Segoe UI, Arial, sans-serif" font-size="24" font-weight="700">3. Save the MP4</text>
+  <text x="824" y="394" fill="#eff6ff" font-family="Segoe UI, Arial, sans-serif" font-size="22">Record the live room or download</text>
+  <text x="824" y="426" fill="#eff6ff" font-family="Segoe UI, Arial, sans-serif" font-size="22">the saved video for later playback.</text>
+</svg>
