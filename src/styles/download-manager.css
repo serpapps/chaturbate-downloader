@@ -1,0 +1,11 @@
+﻿/* Basic stylesheet for CHATURBATE Download Manager */
+#CHATURBATE-download-manager {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+#CHATURBATE-download-manager .cancel-download-btn:hover {
+  background-color: var(--bg-darker);
+}
+#downloads-container {
+  scrollbar-width: thin;
+}
+
